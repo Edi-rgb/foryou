@@ -1,0 +1,16 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 20px;
+    background-color: #f4f4f4;
+  }
+  
+  /* Stilizare pentru butonul "Editează" și checkbox */
+  .card-body {
+    position: relative;
+  }
+
+  
+  .form-check-input {
+    margin-top: 10px;
+  }
+  
